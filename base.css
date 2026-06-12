@@ -4,7 +4,9 @@
 */
 
 html,
-body,
+body {
+    background-color: black;
+},
 div,
 span,
 applet,
@@ -138,7 +140,4 @@ table {
 /* Give canvas a background */
 canvas {
   background-color: black;
-}
-body {
-    background-color: black;
 }
